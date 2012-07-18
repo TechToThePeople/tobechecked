@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<extension key="eu.tttp.tobechecked" type="module">
+  <downloadUrl>http://FIXME/eu.tttp.tobechecked.zip</downloadUrl>
+  <file>tobechecked</file>
+  <name>FIXME</name>
+  <description>FIXME</description>
+  <license>FIXME</license>
+  <maintainer>
+    <author>FIXME</author>
+    <email>FIXME@example.com</email>
+  </maintainer>
+  <releaseDate>2012-07-18</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.1</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Tobechecked</namespace>
+  </civix>
+</extension>
